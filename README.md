@@ -1,5 +1,4 @@
-
-#Employee Data Management
+# Employee Data Management
 
 Employee Data Management is a simple command-line interface (CLI) Python application for managing and searching employee data. Add new employee records and search for existing employees using their name and surname. The application stores employee data in a CSV file.
 
